@@ -4,7 +4,7 @@
 }
 .main{
     height: 400px;
-    background-image: url(https://github.com/Kalvium-Program/kidz-world-html-boilerplate/blob/main/assets/kw-background.png?raw=true);
+    background-image: url(./assets/kw-background.png);
     background-size:100% 100%;
     padding: 50px;
 }
